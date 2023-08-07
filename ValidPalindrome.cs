@@ -1,6 +1,6 @@
 // Subject Two Pointers
 // Time Complexity O(N)
-// Space Complexity O(N)
+// Space Complexity O(1)
 
 public class Solution {
     public bool IsPalindrome(string s) {
