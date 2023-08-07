@@ -1,6 +1,6 @@
 // Subject Arrays & Hashing
 // Time Complexity O(N)
-// Space Complexity O(N)
+// Space Complexity O(1)
 
 public class Solution {
     public bool IsAnagram(string s, string t) {
